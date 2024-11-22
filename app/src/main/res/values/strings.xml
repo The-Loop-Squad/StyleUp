@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">StyleUp</string>
+    <string name="forgotPassword"><u>Forgot your password ?</u></string>
 </resources>
