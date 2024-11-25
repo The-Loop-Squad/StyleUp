@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">StyleUp</string>
     <string name="forgotPassword"><u>Forgot your password ?</u></string>
+    <string name="clothesCatalogHead"><b><b>Discover</b></b> your \ntrend</string>
 </resources>
