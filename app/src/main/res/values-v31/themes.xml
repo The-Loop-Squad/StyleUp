@@ -6,6 +6,9 @@
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
 
         <item name="android:windowSplashScreenBackground">@color/background_blue</item>
+
+        <item name="android:statusBarColor">@color/background_blue</item>
+        <item name="android:windowTranslucentNavigation">true</item>
         <item name="android:windowSplashScreenBrandingImage">@drawable/ic_branding_image</item>
     </style>
 </resources>
