@@ -6,12 +6,27 @@
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/ic_splash_screen_logo"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@drawable/ic_splash_screen_logo"
         android:supportsRtl="true"
         android:theme="@style/Theme.StyleUp"
         tools:targetApi="31">
+        <activity
+            android:name=".ui.activities.SettingsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.activities.OrderHistoryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.activities.BodyMeasurementsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.activities.PersonalInformationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.activities.ForgotPasswordActivity"
+            android:exported="false" />
         <activity
             android:name=".ui.activities.ARTryOnActivity"
             android:exported="false" />
@@ -22,10 +37,10 @@
             android:name=".ui.activities.ClothingDetailActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.activities.ClothingCatalogActivity"
+            android:name=".ui.fragments.ClothingCatalogFragment"
             android:exported="false" />
         <activity
-            android:name=".ui.activities.ProfileActivity"
+            android:name=".ui.fragments.ProfileActivity"
             android:exported="false" />
         <activity
             android:name=".ui.activities.RegisterActivity"
