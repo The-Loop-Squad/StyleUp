@@ -37,7 +37,7 @@
             android:name=".ui.activities.ClothingDetailActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.activities.ClothingCatalogActivity"
+            android:name=".ui.fragments.ClothingCatalogFragment"
             android:exported="false" />
         <activity
             android:name=".ui.fragments.ProfileActivity"

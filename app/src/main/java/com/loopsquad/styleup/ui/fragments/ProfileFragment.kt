@@ -7,14 +7,14 @@ import android.view.View
 import android.view.ViewGroup
 import com.loopsquad.styleup.R
 
-class profile_fragment : Fragment() {
+class ProfileFragment : Fragment() {
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
         // Inflate the layout for this fragment
-        val view = inflater.inflate(R.layout.fragment_profile_fragment, container, false)
+        val view = inflater.inflate(R.layout.fragment_profile, container, false)
         return view
     }
 
