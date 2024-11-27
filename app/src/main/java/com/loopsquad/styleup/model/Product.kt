@@ -1,0 +1,1 @@
+class Product(val name: String, val imageResourceId: Int)
