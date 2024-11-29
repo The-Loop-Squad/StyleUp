@@ -104,7 +104,8 @@
             android:textStyle="bold"
             app:icon="@drawable/ic_scan"
             app:iconGravity="textStart"
-            app:iconTint="@color/white" />
+            app:iconTint="@color/white"
+            android:id="@+id/btnArTryOn"/>
     </LinearLayout>
 
 

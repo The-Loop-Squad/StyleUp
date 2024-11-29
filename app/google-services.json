@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051740073436",
+    "project_id": "styleup-1235",
+    "storage_bucket": "styleup-1235.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051740073436:android:811f1c5d311b1c2a63f319",
+        "android_client_info": {
+          "package_name": "com.loopsquad.styleup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsH5euA4-FcskS9bk9xTxd6bk5265QgdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
